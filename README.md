@@ -13,7 +13,7 @@ additional steps are required that are not documented within this README.
 	5. [Step 5 Explanation of layout](#Step-5-Explanation-of-layout)
 	6. [Step 6 Configuring the framework to your application](#Step-6-configuring-the-framework-to-your-application)
 	7. [Step 7 How to run the tests](#Step-7-How-to-run-the-tests)
-	8. [Step 8 How to run the tests, with Junit xml output](#Step-8-How-to-run-the-tests,-with-Junit-xml-output)
+	8. [Step 8 How to run the tests with Junit xml output](#Step-8-How-to-run-the-tests-with-Junit-xml-output)
 	9. [Step 9 How to run the tests with test coverage output](#Step-9-How-to-run-the-tests-with-test-coverage-output)
 2. [Running code within a virtual environment](#running-the-code-in-a-virtual-environment)
 	1. [Step 1 Installing required Python3 modules](#Step-1-Installing-required-Python3-modules)
