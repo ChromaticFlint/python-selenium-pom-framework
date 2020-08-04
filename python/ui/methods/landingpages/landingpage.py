@@ -11,6 +11,9 @@ class LandingPage(BaseClicker):
     # Landing Page Assets
     LANDING_HEADER = (By.XPATH, '') # This variable need to be set to your application landing header XPATH.
 
+    # Landing Page Expected Values
+    TXT_LANDING_HEADER = '' # This variable needs to be set to what you expect the Landing Header text to return.
+
     def navigate_to_landing_page(self):
 
         # Opens a browser and takes in the parameter variables.BASE_URL as the URL.
