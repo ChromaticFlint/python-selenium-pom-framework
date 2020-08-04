@@ -11,7 +11,7 @@ additional steps are required that are not documented within this README.
 	3. [Step 3 Installing Selenium Chromedriver](#Step-3-Installing-Selenium-Chromedriver)
 	4. [Step 4 Setting up the variables file](#Step-4-Setting-up-the-variables-file)
 	5. [Step 5 Explanation of layout](#Step-5-Explanation-of-layout)
-	6. [Step 6 Configuring the frameowrk to your application](#Step-6-Configuring-the-frameowrk-to-your-application)
+	6. [Step 6 Configuring the framework to your application](#Step-6-configuring-the-framework-to-your-application)
 	7. [Step 7 How to run the tests](#Step-7-How-to-run-the-tests)
 	8. [Step 8 How to run the tests, with Junit xml output](#Step-8-How-to-run-the-tests,-with-Junit-xml-output)
 	9. [Step 9 How to run the tests with test coverage output](#Step-9-How-to-run-the-tests-with-test-coverage-output)
