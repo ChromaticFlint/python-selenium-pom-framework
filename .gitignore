@@ -1,0 +1,17 @@
+# ignore all logs
+*.log
+
+# ignore all pyc
+*.pyc
+
+# ignore pytest cache
+*.pytest_cache
+
+# Ignore PyCharm
+.idea
+
+# Ignore mac files.
+.DS_Store
+
+# Ignore Variables File
+python/ui/variables/variables_ui.py
