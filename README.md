@@ -15,7 +15,7 @@ additional steps are required that are not documented within this README.
 	7. [Step 7 How to run the tests](#Step-7-How-to-run-the-tests)
 	8. [Step 8 How to run the tests with Junit xml output](#Step-8-How-to-run-the-tests-with-Junit-xml-output)
 	9. [Step 9 How to run the tests with test coverage output](#Step-9-How-to-run-the-tests-with-test-coverage-output)
-2. [Running code within a virtual environment](#running/-code-within-a-virtual-environment)
+2. [Running code within a virtual environment](#running-code-within-a-virtual-environment)
 	1. [Step 1 Installing required Python3 modules](#Step-1-Installing-required-Python3-modules)
 	2. [Step 2 Create the Venv](#Step-2-Create-the-Venv)
 	3. [Step 3 Activating and deactivating your venv](#Step-3-Activating-and-deactivating-your-venv)
