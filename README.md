@@ -19,6 +19,7 @@ additional steps are required that are not documented within this README.
 	1. [Step 1 Installing required Python3 modules](#Step-1-Installing-required-Python3-modules)
 	2. [Step 2 Create the Venv](#Step-2-Create-the-Venv)
 	3. [Step 3 Activating and deactivating your venv](#Step-3-Activating-and-deactivating-your-venv)
+3. [Contributing](#contributing)
 
 
 ## Getting started
@@ -220,3 +221,6 @@ deactivate
 
 You should now be removed from the venv, and back in your normal shell.
 
+## Contributing
+
+Contributions to this repository is encouraged and appreciated. If you would like to please create a fork of the repo and submit a PR, or submit and issue. Thank you.
